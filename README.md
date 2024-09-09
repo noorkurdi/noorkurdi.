@@ -1,0 +1,2 @@
+# noorkurdi.
+my personal information

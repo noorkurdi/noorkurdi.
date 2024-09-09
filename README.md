@@ -1,5 +1,4 @@
 # noorkurdi.
-my personal information
 # 💫 About Me:
 🔭 I am currently workinig on (Flutter , Node.js)<br>🌱 I am currently learning (Next.js)<br>
 
